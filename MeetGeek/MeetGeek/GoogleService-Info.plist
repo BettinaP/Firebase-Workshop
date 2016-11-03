@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>60573196022-jplunfn1pliiqan55ied80h58jnngmni.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.60573196022-jplunfn1pliiqan55ied80h58jnngmni</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWx1mrdm5cOrMlX9o8yLsPqxPYgi2iWrw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>60573196022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JulianneGoyena.MeetGeek</string>
+	<key>PROJECT_ID</key>
+	<string>fir-workshop-115fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-workshop-115fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:60573196022:ios:3ad0095a734eb0e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-workshop-115fb.firebaseio.com</string>
+</dict>
+</plist>
